@@ -13,7 +13,9 @@ c = 'a';
 while (c < = 'z')
 
 {
-	putchar("value of %d char %c\n", C, c)
+	putchar(c)("value of %d char %c\n", C, c)
 		c = c + 1;
+
+putchar('\n');
 return (0);
 }
