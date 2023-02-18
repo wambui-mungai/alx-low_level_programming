@@ -8,13 +8,13 @@
 */
 int main(void)
 {
-char c;
-c = 'a';
-while (c < = 'z')
+char ch;
+ch = 'a';
+while (ch <= 'z')
 
 {
-	putchar(c)("value of %d char %c\n", C, c)
-		c = c + 1;
+	putchar(ch)("value of %d char %c\n", ch, ch)
+		ch = ch + 1;
 
 putchar('\n');
 return (0);
