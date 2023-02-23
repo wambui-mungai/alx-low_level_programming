@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- * main - checks for uppercase character
+ * _isupper - checks for uppercase character
  * @c: first member
  * Return:1 if c is uppercase, 0 if otherwise
  *
  */
 
-int _isupper(int c);
+int _isupper(int c)
 {
 
 
