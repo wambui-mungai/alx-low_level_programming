@@ -1,13 +1,12 @@
 #include "main.h"
 #include "2-strlen.c"
-
 /**
  * put2 - function declaration
  * @str: string pointer
  * Return: void
  */
 
-void puts2(char *str)
+void puts2(char *str);
 {
 	int index;
 
